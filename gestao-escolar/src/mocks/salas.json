@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nome": "Programação FullStack",
+        "capacidade": 16,
+        "estudantes": 49,
+        "day": "quarta-feira",
+        "hour": "13:99"
+    },
+
+    {
+        "id": 2,
+        "nome": "ProPlaier",
+        "capacidade": 16,
+        "estudantes": 50,
+        "day": "sexta-feira",
+        "hour": "23:99"
+    },
+    {
+        "id": 3,
+        "nome": "Design",
+        "capacidade": 16,
+        "estudantes": 70,
+        "day": "quinta-feira",
+        "hour": "29:99"
+    },
+    {
+        "id": 4,
+        "nome": "Ingles",
+        "capacidade": 16,
+        "estudantes": 11,
+        "day": "domingo-feira",
+        "hour": "80:00"
+    }
+]
